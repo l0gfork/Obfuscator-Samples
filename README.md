@@ -14,4 +14,4 @@ There's no shortage of tools that claim to detect or unpack a given obfuscator, 
 Yes, this is a fork of another repo, the goal of this is to give new samples more frequently.
 
 ## Extra
-Questions about a specific obfuscator's behavior, or a sample that turned out wrong, go in [Issues](https://github.com/l0gfork/Obfuscator-Samples/issues).
+Questions about a specific obfuscator's behavior, or a sample that turned out wrong, go to [Issues](https://github.com/l0gfork/Obfuscator-Samples/issues).
